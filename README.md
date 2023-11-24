@@ -1,5 +1,8 @@
 
-  <h3 align="center">AutoPwny</h3>
+  <div align="center">
+    <img src="https://github.com/secsi/AutoPwny/blob/main/AutoPwnyLogo.jpeg" alt="Logo" width="300" height="300">
+    
+    <h3 align="center">AutoPwny</h3>
 
   <p align="center">
     Like a BadUSB... but with two way communication
@@ -16,5 +19,4 @@ Effectively a BadUSB with the ability to react to outputs.
 
 Shouts to Pablo for the Logo, and Sina for spurring me on.
 
-<div align="center">
-    <img src="https://github.com/secsi/AutoPwny/blob/main/AutoPwnyLogo.jpeg" alt="Logo" width="80" height="80">
+
