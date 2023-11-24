@@ -1,7 +1,7 @@
 
   <div align="center">
     <img src="https://github.com/secsi/AutoPwny/blob/main/AutoPwnyLogo.jpeg" alt="Logo" width="300" height="300">
-    
+  </div>  
     <h3 align="center">AutoPwny</h3>
 
   <p align="center">
